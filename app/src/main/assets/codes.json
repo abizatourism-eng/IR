@@ -1,0 +1,19 @@
+{"remotes":[
+ {"type":"tv","brand":"LG","buttons":[
+   {"name":"power","a":4,"c":8},{"name":"vol+","a":4,"c":2},{"name":"vol-","a":4,"c":3},
+   {"name":"mute","a":4,"c":9},{"name":"ch+","a":4,"c":0},{"name":"ch-","a":4,"c":1}]},
+ {"type":"tv","brand":"Condor","buttons":[]},
+ {"type":"tv","brand":"Brandt","buttons":[]},
+ {"type":"tv","brand":"Iris","buttons":[]},
+ {"type":"tv","brand":"Stream System","buttons":[]},
+ {"type":"tv","brand":"Géant","buttons":[]},
+ {"type":"receiver","brand":"Starsat","buttons":[]},
+ {"type":"receiver","brand":"Strong","buttons":[]},
+ {"type":"receiver","brand":"Openbox","buttons":[]},
+ {"type":"receiver","brand":"Echolink","buttons":[]},
+ {"type":"receiver","brand":"Mediastar","buttons":[]},
+ {"type":"receiver","brand":"Géant","buttons":[]},
+ {"type":"ac","brand":"Condor","buttons":[]},
+ {"type":"ac","brand":"Brandt","buttons":[]},
+ {"type":"ac","brand":"Gree","buttons":[]}
+]}
